@@ -14,6 +14,10 @@ See what I've been writing: [dev.to/jimsheldon](https://dev.to/jimsheldon)
 
 <img src="https://raw.githubusercontent.com/drone/brand/master/logos/vector/drone-logo-back-with-text.svg" alt="drone" height="100"/> </a> <a href="https://drone.io" target="_blank"> 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="terraform" height="100"/> </a> <a href="https://www.terraform.io" target="_blank">
+  
 ## Stats
 
-[![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimsheldon)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub](https://github-readme-stats.vercel.app/api?username=jimsheldon)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimsheldon&show_icons=true&theme=buefy&layout=compact&langs_count=4)
