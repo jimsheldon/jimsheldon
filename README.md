@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Staff Product Manager @ [Harness](https://harness.io/)
+I am a Principal Product Manager @ [Harness](https://harness.io/)
 
 Previous roles at various other companies: _Principal Software Engineer_, _DevOps Engineer_, _Linux Sysadmin_, _Release Engineer_, and more!
 
